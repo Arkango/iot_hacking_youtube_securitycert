@@ -10,6 +10,11 @@ Firmware link found online
 
 UART pinout scheme
 
+1. VCC
+2. TX
+3. RX
+4. GND
+
 
 Baudrate: 
 
